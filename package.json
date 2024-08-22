@@ -2,6 +2,7 @@
   "name": "art-gallery",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://srirangatanjoreartgallery.github.io/art_gallery_website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
